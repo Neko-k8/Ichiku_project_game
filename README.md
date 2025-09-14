@@ -1,2 +1,3 @@
 # Ichiku_project
-Dự án game
+Dự án game của tôi 
+
