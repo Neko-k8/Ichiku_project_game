@@ -1,0 +1,22 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# User settings
+UserSettings/
+
+# Visual Studio / Rider / VSCode
+*.csproj
+*.sln
+*.user
+*.vsconfig
+.vscode/
+
+# Optional: nếu public, bỏ qua assets bản quyền
+Assets/tai_nguyen/
+Assets/SunnyLand Artwork/
+
